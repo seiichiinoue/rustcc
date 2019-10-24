@@ -1,0 +1,7 @@
+# ignore all
+*
+# allow any
+!.gitignore
+!Cargo.toml
+!README.md
+!src/*.rs
