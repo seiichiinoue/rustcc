@@ -2,5 +2,4 @@
 
 ## Description
 
-C compiler developed with Rust
-
+aiming compiler of C-like language in Rust
