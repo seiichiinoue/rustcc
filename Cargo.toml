@@ -1,0 +1,6 @@
+[package]
+name = "rcc"
+version = "0.1.0"
+authors = ["Seiichi Inoue <d35inou108@gmail.com>"]
+
+[dependencies]
