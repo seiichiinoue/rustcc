@@ -1,7 +1,10 @@
 # ignore all
 *
 # allow any
+!*/
+!*.rs
+!*.md
 !.gitignore
 !Cargo.toml
-!README.md
-!src/*.rs
+# ignore
+target/
